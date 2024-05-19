@@ -1,0 +1,5 @@
+npm i prisma -D
+npx prisma init
+
+(luego de escribir los modelos en schema.prisma)
+npx prisma migrate dev
